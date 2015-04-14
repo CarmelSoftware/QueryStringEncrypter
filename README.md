@@ -9,4 +9,7 @@ The present utility transforms a query string like the following:
 into an obfuscated query string like this:
 "mlzcmFlbEBnbWFpbC5jb20kTXlTdWJqZWN0JDIwMTUvMDMvMjE%3D"
 
+The encrypted string will later be Url encoded, since it is meant to output to an URI address.
+
+
 http://themvcclub.blogspot.co.il/
