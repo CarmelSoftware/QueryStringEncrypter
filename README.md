@@ -2,7 +2,7 @@
 Encryption of query strings using the Base64String 
 ### By Carmel Schvartzman
 
-This is a simple query strings' obfuscator, not a sofisticated security tool.
+This is a simple query strings' obfuscator, not a sophisticated security tool.
 The present utility transforms a query string like the following:
 "$ilikebender@gmail.com$MySubject$20150321"
 
