@@ -1,6 +1,8 @@
 # QueryStringEncrypter
 Encryption of query strings using the Base64String 
-### By Carmel Schvartzman
+#### By Carmel Schvartzman
+#####The present MVC C# code is the companion for the following Tutorial: http://themvcclub.blogspot.com/2015/04/how-to-do-query-strings-encryption-in-5-minutes.html
+
 
 This is a simple query strings' obfuscator, not a sophisticated security tool.
 The present utility transforms a query string like the following:
